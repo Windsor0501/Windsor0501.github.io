@@ -35,7 +35,7 @@ toc_icon: "cog"
   - Computer Architecture (90/100)
   - Computer Networks (89/100)
   - Machine Learning (90/100)
-  - Experiment of Nature Language Processing (88/100)
+  - Experiment of Natural Language Processing (88/100)
 - **Skills:** 
   - Programming Languages: Python, Java
 
@@ -56,10 +56,10 @@ toc_icon: "cog"
 *Project Leader*  
 *August 2023 - October 2023*
 
-- Extracted and analyzed the stance of entities in international news data.
+- Extracted and analyzed the stance of entities in international news.
 - Crawled and annotated raw data from news media websites.
 - Implemented the W2NER framework for named entity recognition tasks.
-- Set up an online task platform environment.
+- Set up an online task platform.
 
 ### Medical Dialogue Robot
 {: .no_toc}
@@ -67,8 +67,8 @@ toc_icon: "cog"
 *October 2023 - November 2023*
 
 - Fine-tuned general language models to adapt to specialized medical content.
-- Configured and deployed the LLaMA model and Fine-tuned it.
-- Configured and deployed the Ghatglm-3 model and Fine-tuned it.
+- Configured and deployed the LLaMA model and fine-tuned it.
+- Configured and deployed the Chatglm-3 model and fine-tuned it.
 - Built the front-end display page.
 
 ### Class Attendance System
@@ -76,9 +76,9 @@ toc_icon: "cog"
 *Project Leader*  
 *March 2024 - April 2024*
 
-- Trained a ResNet network to realize liveness detection combined with action-detection.
+- Trained a ResNet network for liveness detection combined with action-detection.
 - Implemented facial verification using YOLOv8 for facial feature extraction.
-- Connected to the backend database for information management.
+- Connected to the back-end database for information management.
 
 ---
 
@@ -91,7 +91,7 @@ toc_icon: "cog"
 - Constructed defenses against adversarial example attacks targeting voice detection systems.
 - Developed a universal fake voice detection algorithm and corresponding detection system.
 - Reproduced related papers to implement SV (Speaker Verification) and CSI (Closed-set Speaker Identification) tasks based on x-vectors and Ecapa-TDNN.
-- Integrated PLDA algorithm to train speaker recognition models.
+- Integrated the PLDA algorithm to train speaker recognition models.
 
 ---
 
@@ -104,7 +104,7 @@ toc_icon: "cog"
 
 - Designed and arranged summer teaching courses for the Daliangshan region.
 
-### Public Relations Department Head
+### Head of Public Relations Department
 {: .no_toc}
 *Wuhan University Alumni Office WeiAiLuojia Association*  
 *June 2021 - June 2024*
@@ -122,7 +122,7 @@ toc_icon: "cog"
 
 ---
 ## Self-description
-- Quick learner with strong curiosities and rich experiences in projects.
-- Well-organized practitioner experienced in activity design, task allocation and workload refinement.
-- Sincere team worker believing in the strength of communication, cooperation and careful implementation.
-- Good at sports and calligraphy
+- Quick learner with strong curiosity and extensive project experience.
+- Well-organized practitioner experienced in activity design, task allocation, and workload management.
+- Sincere team worker who believes in the strength of communication, cooperation, and careful implementation.
+- Enjoys sports and calligraphy.
