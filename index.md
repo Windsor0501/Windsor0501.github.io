@@ -26,7 +26,10 @@ toc_icon: "cog"
 *September 2020 - June 2025 (Expected)*
 
 - **GPA:** 3.84/4.0 (Rank: 19/130)
-- **English Proficiency:** CET-6: 604; IELTS: 7.5; GRE: 162 (Verbal), 170 (Quantitative)
+- **English Proficiency:** 
+  -CET-6: 604
+  -IELTS: 7.5
+  -GRE: 162 (Verbal), 170 (Quantitative)
 - **Core Courses:** 
   - Advanced Mathematics (96/100)
   - Linear Algebra (91/100)
