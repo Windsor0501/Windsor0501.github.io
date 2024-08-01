@@ -43,6 +43,7 @@ toc_icon: "cog"
 
 ## Projects
 ### Intra-school Questionnaire System
+{: .no_toc}
 *Core Member*  
 *April 2023 - June 2023*
 
@@ -51,6 +52,7 @@ toc_icon: "cog"
 - Constructed front-end pages using the Vue3 framework.
 
 ### International News Entity Stance and Sentiment Analysis
+{: .no_toc}
 *Project Leader*  
 *August 2023 - October 2023*
 
@@ -60,6 +62,7 @@ toc_icon: "cog"
 - Set up an online task platform environment.
 
 ### Medical Dialogue Robot
+{: .no_toc}
 *Project Leader*  
 *October 2023 - November 2023*
 
@@ -69,6 +72,7 @@ toc_icon: "cog"
 - Built the front-end display page.
 
 ### Class Attendance System
+{: .no_toc}
 *Project Leader*  
 *March 2024 - April 2024*
 
@@ -80,6 +84,7 @@ toc_icon: "cog"
 
 ## Research Experiences 
 ### Universal Adversarial Example Resistant Voice Detection System
+{: .no_toc}
 *Core Member*  
 *February 2024 - May 2024*
 
@@ -92,6 +97,7 @@ toc_icon: "cog"
 
 ## Campus Activities
 ### Volunteer Teaching Program in Daliangshan Region
+{: .no_toc}
 *Core Member*  
 *Wuhan University Sunshine Public Welfare Association*  
 *October 2020 - June 2021*
@@ -99,6 +105,7 @@ toc_icon: "cog"
 - Designed and arranged summer teaching courses for the Daliangshan region.
 
 ### Public Relations Department Head
+{: .no_toc}
 *Wuhan University Alumni Office WeiAiLuojia Association*  
 *June 2021 - June 2024*
 
