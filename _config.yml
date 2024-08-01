@@ -29,12 +29,14 @@ url: "https://windsor0501.github.io" # the base hostname & protocol for your sit
 markdown: kramdown
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+# theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-toc
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
