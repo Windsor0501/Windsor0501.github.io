@@ -257,9 +257,7 @@
 }
 
 .author__urls {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  display: none;
   position: absolute;
   right: 0;
   margin-top: 15px;
