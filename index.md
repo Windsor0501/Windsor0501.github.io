@@ -29,7 +29,7 @@ toc_icon: "cog"
 - **English Proficiency:** 
   - CET-6: 604
   - IELTS: 7.5
-  - GRE: 162 (Verbal), 170 (Quantitative)
+- **Graduate Record Examination (GRE):** 162 (Verbal), 170 (Quantitative)
 - **Core Courses:** 
   - Advanced Mathematics (96/100)
   - Linear Algebra (91/100)
