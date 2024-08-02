@@ -89,7 +89,7 @@ toc_icon: "cog"
 ### Universal Adversarial Example Resistant Voice Detection System
 {: .no_toc}
 *Core Member*  
-*February 2024 - May 2024*
+*October 2023 - May 2024*
 
 - Constructed defenses against adversarial example attacks targeting voice detection systems.
 - Developed a universal fake voice detection algorithm and corresponding detection system.
