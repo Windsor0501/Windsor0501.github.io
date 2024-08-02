@@ -79,8 +79,8 @@ toc_icon: "cog"
 *Project Leader*  
 *March 2024 - April 2024*
 
-- Trained a ResNet network for liveness detection combined with action-detection.
-- Implemented facial verification using YOLOv8 for facial feature extraction.
+- Trained a ResNet for liveness detection combined with action-detection.
+- Implemented facial verification with Dlib for facial feature extraction.
 - Connected to the back-end database for information management.
 
 ---
