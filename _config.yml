@@ -73,7 +73,7 @@ atom_feed:
 # author
 author:
   name: "Wang Chenxiao"
-  avatar: "/assets/images/self.png"
+  avatar: "/assets/images/cat.png"
   bio: "Follow my dreams."
   location: "Wuhan, China"
   links:
