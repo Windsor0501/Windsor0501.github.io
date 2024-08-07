@@ -25,8 +25,8 @@ toc_icon: "cog"
 **Wuhan University, School of Cyber Science and Engineering**  
 *September 2020 - June 2025 (Expected)*
 
-**Westlake University, Deep Learning Lab**
-*Visiting Student*
+**Westlake University, Deep Learning Lab**  
+*Visiting Student*  
 *June 2024 - August 2024*
 
 - **GPA:** 3.84/4.0 (Rank: 19/130)
