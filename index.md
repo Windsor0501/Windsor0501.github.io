@@ -51,7 +51,7 @@ toc_icon: "cog"
 ## Publications   
 ### Unveiling the Impact of Multi-Modal Interactions on User Engagement: A Comprehensive Evaluation in AI-driven Conversations
 *Lichao Zhang, Jia Yu, Shuai Zhang, Long Li, Yangyang Zhong, Guanbao Liang, YanYuming, Qing Ma, Wang Chenxiao, Chenyang Li, Jing Li, Renjun Xu, Zhenzhong Lan*    
-Under Review  
+*Under Review*  
 
 ## Projects
 ### Intra-school Questionnaire System
