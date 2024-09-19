@@ -29,7 +29,8 @@ toc_icon: "cog"
 *Visiting Student*  
 *June 2024 - August 2024*  
 
-**GPA:** 3.84/4.0 (Rank: 19/130)  
+**GPA:** 3.84/4.0 (Rank: 19/130)
+
 **English Proficiency:**    
   - CET-6: 604
   - IELTS: 7.5
@@ -46,7 +47,7 @@ toc_icon: "cog"
   - Machine Learning (90/100)
   - Experiment of Natural Language Processing (88/100)
 
-**Skills:**     
+**Skills:**   
   - Programming Languages: Python, Java  
 
 ---
