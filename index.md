@@ -29,12 +29,12 @@ toc_icon: "cog"
 *Visiting Student*  
 *June 2024 - August 2024*  
 
-**GPA:** 3.84/4.0 (Rank: 19/130)
-**English Proficiency:** 
+**GPA:** 3.84/4.0 (Rank: 19/130)  
+**English Proficiency:**   
   - CET-6: 604
-  - IELTS: 7.5
-**Graduate Record Examination (GRE):** 162 (Verbal), 170 (Quantitative)
-**Core Courses:** 
+  - IELTS: 7.5  
+**Graduate Record Examination (GRE):** 162 (Verbal), 170 (Quantitative)  
+**Core Courses:**   
   - Advanced Mathematics (96/100)
   - Linear Algebra (91/100)
   - Data Structures (93/100)
@@ -42,16 +42,16 @@ toc_icon: "cog"
   - Computer Architecture (90/100)
   - Computer Networks (89/100)
   - Machine Learning (90/100)
-  - Experiment of Natural Language Processing (88/100)
-**Skills:** 
-  - Programming Languages: Python, Java
+  - Experiment of Natural Language Processing (88/100)  
+**Skills:**   
+  - Programming Languages: Python, Java  
 
 ---
 
 ## Publications   
 ### Unveiling the Impact of Multi-Modal Interactions on User Engagement: A Comprehensive Evaluation in AI-driven Conversations
 {: .no_toc}
-*Under Review*
+*Under Review*  
 *Lichao Zhang, Jia Yu, Shuai Zhang, Long Li, Yangyang Zhong, Guanbao Liang, YanYuming, Qing Ma, Wang Chenxiao, Chenyang Li, Jing Li, Renjun Xu, Zhenzhong Lan*    
   
 
