@@ -30,11 +30,13 @@ toc_icon: "cog"
 *June 2024 - August 2024*  
 
 **GPA:** 3.84/4.0 (Rank: 19/130)  
-**English Proficiency:**   
+**English Proficiency:**    
   - CET-6: 604
-  - IELTS: 7.5  
-**Graduate Record Examination (GRE):** 162 (Verbal), 170 (Quantitative)  
-**Core Courses:**   
+  - IELTS: 7.5
+
+**Graduate Record Examination (GRE):** 162 (Verbal), 170 (Quantitative)
+
+**Core Courses:**     
   - Advanced Mathematics (96/100)
   - Linear Algebra (91/100)
   - Data Structures (93/100)
@@ -42,8 +44,9 @@ toc_icon: "cog"
   - Computer Architecture (90/100)
   - Computer Networks (89/100)
   - Machine Learning (90/100)
-  - Experiment of Natural Language Processing (88/100)  
-**Skills:**   
+  - Experiment of Natural Language Processing (88/100)
+
+**Skills:**     
   - Programming Languages: Python, Java  
 
 ---
